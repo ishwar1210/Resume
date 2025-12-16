@@ -51,4 +51,3 @@ Enthusiastic and motivated Web Developer with a strong foundation in front-end a
 ## 📫 Let's Connect!
 
 Feel free to reach out to me via email or connect on [LinkedIn](www.linkedin.com/in/ishwar-khairnar) *(insert your actual LinkedIn profile link if available)*.
-
